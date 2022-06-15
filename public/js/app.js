@@ -27645,15 +27645,27 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
+/***/ "./resources/sass/vacanze.scss":
+/*!*************************************!*\
+  !*** ./resources/sass/vacanze.scss ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!*************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
-  \*************************************************************/
+/*!*******************************************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./resources/sass/vacanze.scss ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/rosario/Scrivania/laravel/vacanze/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/rosario/Scrivania/laravel/vacanze/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/rosario/Scrivania/laravel/laravel-migration-seeder/resources/js/app.js */"./resources/js/app.js");
+__webpack_require__(/*! /home/rosario/Scrivania/laravel/laravel-migration-seeder/resources/sass/app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! /home/rosario/Scrivania/laravel/laravel-migration-seeder/resources/sass/vacanze.scss */"./resources/sass/vacanze.scss");
 
 
 /***/ })
