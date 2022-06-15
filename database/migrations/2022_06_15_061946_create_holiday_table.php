@@ -11,7 +11,7 @@ class CreateHolidayTable extends Migration
      *
      * @return void
      * 
-     * ##vacanza
+     * ##descrizione parametri
      * - destinazione
      * 
      * - hotel
